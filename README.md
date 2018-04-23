@@ -4,6 +4,6 @@ by David Garcia, Yonas Mitike Kassa, Angel Cuevas, Manuel Cebrian, Esteban Moro,
 
 ## [Interactive Visualization](https://dgarcia-eu.github.io/FacebookGenderDivide/Visualization.html)
 
-## Data to reproduce paper results
+## Facebook Gender Divide data
  - https://github.com/dgarcia-eu/FacebookGenderDivide/blob/master/FGDdata.RData
  - https://github.com/dgarcia-eu/FacebookGenderDivide/blob/master/FBdataDif.RData
